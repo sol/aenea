@@ -1,0 +1,23 @@
+[[package]]
+category = "main"
+description = "This project is an implementation of the JSON-RPC v2.0 specification (backwards-compatible) as a client library."
+name = "jsonrpclib"
+optional = false
+python-versions = "*"
+version = "0.1.7"
+
+[[package]]
+category = "main"
+description = "Yet another plugin system"
+name = "yapsy"
+optional = false
+python-versions = "*"
+version = "1.12.0"
+
+[metadata]
+content-hash = "f06dba72525dbeabd0fb32c765fd3e1a54617837ea68d07ed8a3ab5c58eb450a"
+python-versions = "*"
+
+[metadata.hashes]
+jsonrpclib = ["7f50239d53b5e95b94455d5e1adae70592b5b71f0e960d3bbbfbb125788e6f0b"]
+yapsy = ["adc6aaae9eba6cdf3a48e24e120e00d90fb333711a8a1f30f600001c32d1f243", "e293513dc3c1b1841e7161f6283bc7e7d8d0886cce099dc8b292a91eadc2b6c1", "f08cb229a96f14cc0b1d4b68cb7c111d1020ab8c3989b426d3aa39b82d6a3e3c"]
